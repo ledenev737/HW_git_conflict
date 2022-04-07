@@ -7,4 +7,8 @@ public class Main {
         System.out.println("Chao, chao");
         System.out.println("Chao, slow");
     }
+
+    public static void Upper() {
+        System.out.println("UPPER CASE!");
+    }
 }
